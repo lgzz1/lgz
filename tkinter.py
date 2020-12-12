@@ -10,4 +10,4 @@ import tkinter as tk
 
 class App:
     def __init__(self,master):
-        
+        self.a = master
